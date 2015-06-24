@@ -1,6 +1,6 @@
 # IncreName
 
-I wrote this C#/command-line program for work. It fixes attachment folders, which have numeric names like 1, 2, 3, 4, and so forth, by renaming them to a incremented value such as 2, 3, 4, 5, respectively. This is so the ID referenced in an attachment link will match up with the folder that was generated (because there's an upgrade that breaks the syncing for the numbers).
+I wrote this C#/command-line program for work. It fixes attachment folders, which have numeric names like 1, 2, 3, 4, and so forth, by renaming them to an incremented value. For example, it will rename the folders to 2, 3, 4, and 5 if the original names were 1, 2, 3, and 4, respectively. Any real number can be used to increment the numeric value for the folder name. This is so the ID referenced in an attachment link will match up with the folder name that was generated for the attachment (because there's an upgrade that breaks the syncing for the numbers).
 
 I can't see how somoene else could use this outsideo of my job but maybe it will be useful someone else out there (which would be awesome). You could probably modified it so it renames the folders differently (instead of renaming them to another numeric number).
 
