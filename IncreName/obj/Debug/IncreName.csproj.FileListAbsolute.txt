@@ -1,0 +1,6 @@
+c:\users\swaters\documents\visual studio 2013\Projects\IncreName\IncreName\bin\Debug\IncreName.exe.config
+c:\users\swaters\documents\visual studio 2013\Projects\IncreName\IncreName\bin\Debug\IncreName.exe
+c:\users\swaters\documents\visual studio 2013\Projects\IncreName\IncreName\bin\Debug\IncreName.pdb
+c:\users\swaters\documents\visual studio 2013\Projects\IncreName\IncreName\obj\Debug\IncreName.csprojResolveAssemblyReference.cache
+c:\users\swaters\documents\visual studio 2013\Projects\IncreName\IncreName\obj\Debug\IncreName.exe
+c:\users\swaters\documents\visual studio 2013\Projects\IncreName\IncreName\obj\Debug\IncreName.pdb

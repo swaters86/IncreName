@@ -1,0 +1,223 @@
+startDateTime: 6/19/2015 3:06:00 PM
+endDateTime: 6/19/2015 3:07:00 PM
+originalDirectoryNameC:\Users\swaters\Desktop\directory_name_iterator\1
+directoryName1: 1
+directoryName2: C:\Users\swaters\Desktop\directory_name_iterator\
+directoryNameNumber: 1
+directoryLastModifiedTime: 6/18/2015 6:10:16 PM
+newDirectoryName: 2
+newDirectoryPath: C:\Users\swaters\Desktop\directory_name_iterator\2
+is directoryLastModifiedTime >= startDateTime: False
+is directoryLastModifiedTime <= endDateTime: True
+------------
+originalDirectoryNameC:\Users\swaters\Desktop\directory_name_iterator\10
+directoryName1: 10
+directoryName2: C:\Users\swaters\Desktop\directory_name_iterator\
+directoryNameNumber: 10
+directoryLastModifiedTime: 6/18/2015 6:17:00 PM
+newDirectoryName: 11
+newDirectoryPath: C:\Users\swaters\Desktop\directory_name_iterator\11
+is directoryLastModifiedTime >= startDateTime: False
+is directoryLastModifiedTime <= endDateTime: True
+------------
+originalDirectoryNameC:\Users\swaters\Desktop\directory_name_iterator\11
+directoryName1: 11
+directoryName2: C:\Users\swaters\Desktop\directory_name_iterator\
+directoryNameNumber: 11
+directoryLastModifiedTime: 6/18/2015 6:17:04 PM
+newDirectoryName: 12
+newDirectoryPath: C:\Users\swaters\Desktop\directory_name_iterator\12
+is directoryLastModifiedTime >= startDateTime: False
+is directoryLastModifiedTime <= endDateTime: True
+------------
+originalDirectoryNameC:\Users\swaters\Desktop\directory_name_iterator\12
+directoryName1: 12
+directoryName2: C:\Users\swaters\Desktop\directory_name_iterator\
+directoryNameNumber: 12
+directoryLastModifiedTime: 6/18/2015 6:17:09 PM
+newDirectoryName: 13
+newDirectoryPath: C:\Users\swaters\Desktop\directory_name_iterator\13
+is directoryLastModifiedTime >= startDateTime: False
+is directoryLastModifiedTime <= endDateTime: True
+------------
+originalDirectoryNameC:\Users\swaters\Desktop\directory_name_iterator\13
+directoryName1: 13
+directoryName2: C:\Users\swaters\Desktop\directory_name_iterator\
+directoryNameNumber: 13
+directoryLastModifiedTime: 6/18/2015 6:17:12 PM
+newDirectoryName: 14
+newDirectoryPath: C:\Users\swaters\Desktop\directory_name_iterator\14
+is directoryLastModifiedTime >= startDateTime: False
+is directoryLastModifiedTime <= endDateTime: True
+------------
+originalDirectoryNameC:\Users\swaters\Desktop\directory_name_iterator\14
+directoryName1: 14
+directoryName2: C:\Users\swaters\Desktop\directory_name_iterator\
+directoryNameNumber: 14
+directoryLastModifiedTime: 6/18/2015 6:17:15 PM
+newDirectoryName: 15
+newDirectoryPath: C:\Users\swaters\Desktop\directory_name_iterator\15
+is directoryLastModifiedTime >= startDateTime: False
+is directoryLastModifiedTime <= endDateTime: True
+------------
+originalDirectoryNameC:\Users\swaters\Desktop\directory_name_iterator\15
+directoryName1: 15
+directoryName2: C:\Users\swaters\Desktop\directory_name_iterator\
+directoryNameNumber: 15
+directoryLastModifiedTime: 6/18/2015 6:17:18 PM
+newDirectoryName: 16
+newDirectoryPath: C:\Users\swaters\Desktop\directory_name_iterator\16
+is directoryLastModifiedTime >= startDateTime: False
+is directoryLastModifiedTime <= endDateTime: True
+------------
+originalDirectoryNameC:\Users\swaters\Desktop\directory_name_iterator\17
+directoryName1: 17
+directoryName2: C:\Users\swaters\Desktop\directory_name_iterator\
+directoryNameNumber: 17
+directoryLastModifiedTime: 6/18/2015 6:17:22 PM
+newDirectoryName: 18
+newDirectoryPath: C:\Users\swaters\Desktop\directory_name_iterator\18
+is directoryLastModifiedTime >= startDateTime: False
+is directoryLastModifiedTime <= endDateTime: True
+------------
+originalDirectoryNameC:\Users\swaters\Desktop\directory_name_iterator\2
+directoryName1: 2
+directoryName2: C:\Users\swaters\Desktop\directory_name_iterator\
+directoryNameNumber: 2
+directoryLastModifiedTime: 6/18/2015 6:10:22 PM
+newDirectoryName: 3
+newDirectoryPath: C:\Users\swaters\Desktop\directory_name_iterator\3
+is directoryLastModifiedTime >= startDateTime: False
+is directoryLastModifiedTime <= endDateTime: True
+------------
+originalDirectoryNameC:\Users\swaters\Desktop\directory_name_iterator\3
+directoryName1: 3
+directoryName2: C:\Users\swaters\Desktop\directory_name_iterator\
+directoryNameNumber: 3
+directoryLastModifiedTime: 6/18/2015 6:10:28 PM
+newDirectoryName: 4
+newDirectoryPath: C:\Users\swaters\Desktop\directory_name_iterator\4
+is directoryLastModifiedTime >= startDateTime: False
+is directoryLastModifiedTime <= endDateTime: True
+------------
+originalDirectoryNameC:\Users\swaters\Desktop\directory_name_iterator\377
+directoryName1: 377
+directoryName2: C:\Users\swaters\Desktop\directory_name_iterator\
+directoryNameNumber: 377
+directoryLastModifiedTime: 6/19/2015 3:06:38 PM
+newDirectoryName: 378
+newDirectoryPath: C:\Users\swaters\Desktop\directory_name_iterator\378
+is directoryLastModifiedTime >= startDateTime: True
+is directoryLastModifiedTime <= endDateTime: True
+------------
+Directory RenamedoriginalDirectoryNameC:\Users\swaters\Desktop\directory_name_iterator\379
+directoryName1: 379
+directoryName2: C:\Users\swaters\Desktop\directory_name_iterator\
+directoryNameNumber: 379
+directoryLastModifiedTime: 6/19/2015 3:06:46 PM
+newDirectoryName: 380
+newDirectoryPath: C:\Users\swaters\Desktop\directory_name_iterator\380
+is directoryLastModifiedTime >= startDateTime: True
+is directoryLastModifiedTime <= endDateTime: True
+------------
+Directory RenamedoriginalDirectoryNameC:\Users\swaters\Desktop\directory_name_iterator\4
+directoryName1: 4
+directoryName2: C:\Users\swaters\Desktop\directory_name_iterator\
+directoryNameNumber: 4
+directoryLastModifiedTime: 6/18/2015 6:10:36 PM
+newDirectoryName: 5
+newDirectoryPath: C:\Users\swaters\Desktop\directory_name_iterator\5
+is directoryLastModifiedTime >= startDateTime: False
+is directoryLastModifiedTime <= endDateTime: True
+------------
+originalDirectoryNameC:\Users\swaters\Desktop\directory_name_iterator\5
+directoryName1: 5
+directoryName2: C:\Users\swaters\Desktop\directory_name_iterator\
+directoryNameNumber: 5
+directoryLastModifiedTime: 6/18/2015 6:16:42 PM
+newDirectoryName: 6
+newDirectoryPath: C:\Users\swaters\Desktop\directory_name_iterator\6
+is directoryLastModifiedTime >= startDateTime: False
+is directoryLastModifiedTime <= endDateTime: True
+------------
+originalDirectoryNameC:\Users\swaters\Desktop\directory_name_iterator\6
+directoryName1: 6
+directoryName2: C:\Users\swaters\Desktop\directory_name_iterator\
+directoryNameNumber: 6
+directoryLastModifiedTime: 6/18/2015 6:16:45 PM
+newDirectoryName: 7
+newDirectoryPath: C:\Users\swaters\Desktop\directory_name_iterator\7
+is directoryLastModifiedTime >= startDateTime: False
+is directoryLastModifiedTime <= endDateTime: True
+------------
+originalDirectoryNameC:\Users\swaters\Desktop\directory_name_iterator\64
+directoryName1: 64
+directoryName2: C:\Users\swaters\Desktop\directory_name_iterator\
+directoryNameNumber: 64
+directoryLastModifiedTime: 6/18/2015 6:17:26 PM
+newDirectoryName: 65
+newDirectoryPath: C:\Users\swaters\Desktop\directory_name_iterator\65
+is directoryLastModifiedTime >= startDateTime: False
+is directoryLastModifiedTime <= endDateTime: True
+------------
+originalDirectoryNameC:\Users\swaters\Desktop\directory_name_iterator\65
+directoryName1: 65
+directoryName2: C:\Users\swaters\Desktop\directory_name_iterator\
+directoryNameNumber: 65
+directoryLastModifiedTime: 6/18/2015 6:17:30 PM
+newDirectoryName: 66
+newDirectoryPath: C:\Users\swaters\Desktop\directory_name_iterator\66
+is directoryLastModifiedTime >= startDateTime: False
+is directoryLastModifiedTime <= endDateTime: True
+------------
+originalDirectoryNameC:\Users\swaters\Desktop\directory_name_iterator\66
+directoryName1: 66
+directoryName2: C:\Users\swaters\Desktop\directory_name_iterator\
+directoryNameNumber: 66
+directoryLastModifiedTime: 6/18/2015 6:17:35 PM
+newDirectoryName: 67
+newDirectoryPath: C:\Users\swaters\Desktop\directory_name_iterator\67
+is directoryLastModifiedTime >= startDateTime: False
+is directoryLastModifiedTime <= endDateTime: True
+------------
+originalDirectoryNameC:\Users\swaters\Desktop\directory_name_iterator\67
+directoryName1: 67
+directoryName2: C:\Users\swaters\Desktop\directory_name_iterator\
+directoryNameNumber: 67
+directoryLastModifiedTime: 6/18/2015 6:17:37 PM
+newDirectoryName: 68
+newDirectoryPath: C:\Users\swaters\Desktop\directory_name_iterator\68
+is directoryLastModifiedTime >= startDateTime: False
+is directoryLastModifiedTime <= endDateTime: True
+------------
+originalDirectoryNameC:\Users\swaters\Desktop\directory_name_iterator\68
+directoryName1: 68
+directoryName2: C:\Users\swaters\Desktop\directory_name_iterator\
+directoryNameNumber: 68
+directoryLastModifiedTime: 6/18/2015 6:17:41 PM
+newDirectoryName: 69
+newDirectoryPath: C:\Users\swaters\Desktop\directory_name_iterator\69
+is directoryLastModifiedTime >= startDateTime: False
+is directoryLastModifiedTime <= endDateTime: True
+------------
+originalDirectoryNameC:\Users\swaters\Desktop\directory_name_iterator\7
+directoryName1: 7
+directoryName2: C:\Users\swaters\Desktop\directory_name_iterator\
+directoryNameNumber: 7
+directoryLastModifiedTime: 6/18/2015 6:16:48 PM
+newDirectoryName: 8
+newDirectoryPath: C:\Users\swaters\Desktop\directory_name_iterator\8
+is directoryLastModifiedTime >= startDateTime: False
+is directoryLastModifiedTime <= endDateTime: True
+------------
+originalDirectoryNameC:\Users\swaters\Desktop\directory_name_iterator\9
+directoryName1: 9
+directoryName2: C:\Users\swaters\Desktop\directory_name_iterator\
+directoryNameNumber: 9
+directoryLastModifiedTime: 6/18/2015 6:16:52 PM
+newDirectoryName: 10
+newDirectoryPath: C:\Users\swaters\Desktop\directory_name_iterator\10
+is directoryLastModifiedTime >= startDateTime: False
+is directoryLastModifiedTime <= endDateTime: True
+------------
+Number of directories changed: 2
