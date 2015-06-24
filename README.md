@@ -1,8 +1,8 @@
 # IncreName
 
-I wrote this program for work. Unfortunately, some there's an upgrade for our software that tends to break attachments folders which have numeric names like 1, 2, 3, 4, and so forth. In addition, links for those attachments reference the original folder names , so an attachment request could look like this /attachments&id=5. However, the upgrade might generate a folder for the attachment and use 6 instead of 5. Unfortunately the id number never gets updated in the link, so we fixt his by renaming the folders so they match the ID referenced in the link for the attachment (so the links point to the correct folder).
+I wrote this C#/command-line program for work. It fixes attachment folders, which have numeric names like 1, 2, 3, 4, and so forth, by renaming them to a incremented value such as 2, 3, 4, 5, respectively. This is so the ID referenced in an attachment link will match up with the folder that was generated (because there's an upgrade that breaks the syncing for the numbers).
 
-This a C# program that can rename a set of folders with numeric names such as 1, 2, 3, 4, to 2, 3, 4, 5, repectively, if the increment amount supplied by the user is 1.  
+I can't see how somoene else could use this outsideo of my job but maybe it will be useful someone else out there (which would be awesome). You could probably modified it so it renames the folders differently (instead of renaming them to another numeric number).
 
 ## How to use it: 
 
@@ -25,4 +25,6 @@ folders that have been modified 06/19/2015 3:06 PM  and 06/19/2015 3:07 PM
 
 7. If you used the increment amount of 2 and folders with the names of '68' and '7', for example, fall within the start and stoping last modified times, then those folders will be renamed to '70' and '9', respectively. 
 
-8. Check the target directory. It contains additional output about which folders were renamed, how many were renamed, etc 
+8. The program will exit after it runs but it will generate a log file in the targetr directory before doing so. 
+
+
