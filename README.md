@@ -10,29 +10,7 @@ This a C# program that can rename a set of folders with numeric names such as 1,
 
 2. Run the program
 
-3. At this point a command prompt will pop up. It will ask you for the path to the attachments folder (aka the target directory). This directory should have subfolders with numeric names like this:  
-
-+---1
-+---10
-+---11
-+---12
-+---13
-+---14
-+---15
-+---17
-+---2
-+---3
-+---379
-+---381
-+---4
-+---5
-+---6
-+---64
-+---65
-+---66
-+---67
-+---68
-+---7
+3. At this point a command prompt will pop up. It will ask you for the path to the attachments folder (aka the target directory). This directory should have subfolders with numeric names like 1, 2, 3, 4, ... 44, 66, 88, 500, 200, 44, so forth. 
 
 4. Specify the increment amount, for example 2. 
 
@@ -45,5 +23,6 @@ The last modified time should be in this format: 06/19/2015 3:06 PM
 So using  06/19/2015 3:06 PM as the starting last modified time and 06/19/2015 3:07 PM as the stoping as last modified time will rename
 folders that have been modified 06/19/2015 3:06 PM  and 06/19/2015 3:07 PM
 
-7. If you used the increment amount of 2 and folder '68' and '7' in the above list fall within those last modified times, then those folders should be renamed to '70' and '9', respectively. 
+7. If you used the increment amount of 2 and folders with the names of '68' and '7', for example, fall within the start and stoping last modified times, then those folders will be renamed to '70' and '9', respectively. 
 
+8. Check the target directory. It contains additional output about which folders were renamed, how many were renamed, etc 
